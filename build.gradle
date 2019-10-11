@@ -77,5 +77,6 @@ ext {
     jansiVersion = '1.13'
     jlineVersion = '2.14.6'
     mockitoVersion = '1.9.5'
+    commonsIoVersion = '2.6'
     systemRulesVersion = '1.19.0'
 }
